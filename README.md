@@ -1,6 +1,6 @@
 # Paper Puppets
 
-*A lab report by John Q. Student*
+*A lab report by Ziyu Liu*
 
 ## In this Report
 
@@ -10,7 +10,7 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 
 **Link to a video of your virbation motor**
 
-[video]()
+[video](https://youtu.be/O6RMc2vzs9k)
 
 ## Part B. Actuating Servo motors
 
@@ -36,11 +36,19 @@ The function delay controls the speed, we can speed-up or speed-down by decreasi
 
 **Include a photo/movie of your raw circuit in action.**
 
+[video](https://youtu.be/GxeqryeWFLw)
+
 ## Part D. Paper puppet
 
 **a. Make a video of your proto puppet.**
 
+[video](https://youtu.be/xv8EEg0O3FE)
+
 ## Part E. Make it your own
+
+The design of this lab is the combination of the buzzer and the puppet. The puppet will dance according to the tone from the buzzer. 
+
+[video](https://youtu.be/7tDROsVKpkM)
 
 **a. Make a video of your final design.**
  
